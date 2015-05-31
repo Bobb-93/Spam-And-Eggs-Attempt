@@ -1,0 +1,12 @@
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\Spam-and-Eggs\bin\Debug\Spam-and-Eggs.exe.config
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\Spam-and-Eggs\bin\Debug\Spam-and-Eggs.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\Spam-and-Eggs\bin\Debug\Spam-and-Eggs.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\Spam-and-Eggs\obj\Debug\Spam-and-Eggs.csprojResolveAssemblyReference.cache
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\Spam-and-Eggs\obj\Debug\Spam-and-Eggs.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\Spam-and-Eggs\obj\Debug\Spam-and-Eggs.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\New folder (2)\Spam-and-Eggs\Spam-And-Eggs-Attempt\Spam-and-Eggs\bin\Debug\Spam-and-Eggs.exe.config
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\New folder (2)\Spam-and-Eggs\Spam-And-Eggs-Attempt\Spam-and-Eggs\obj\Debug\Spam-and-Eggs.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\New folder (2)\Spam-and-Eggs\Spam-And-Eggs-Attempt\Spam-and-Eggs\obj\Debug\Spam-and-Eggs.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\New folder (2)\Spam-and-Eggs\Spam-And-Eggs-Attempt\Spam-and-Eggs\bin\Debug\Spam-and-Eggs.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\New folder (2)\Spam-and-Eggs\Spam-And-Eggs-Attempt\Spam-and-Eggs\bin\Debug\Spam-and-Eggs.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\New folder (2)\Spam-and-Eggs\Spam-And-Eggs-Attempt\Spam-and-Eggs\obj\Debug\Spam-and-Eggs.csprojResolveAssemblyReference.cache
